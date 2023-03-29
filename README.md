@@ -1,7 +1,5 @@
 ## <div align="center">Hey 👋, I'm Vincenzo Belardo, a full-stack web developer. 👨‍💻</div>  
   
-<img src=https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg alt=linkedin style="margin-bottom: 5px;" />
-
 ### Connect whit me:  
 <a href="https://www.linkedin.com/in/vincenzo-belardo-b46296171/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
