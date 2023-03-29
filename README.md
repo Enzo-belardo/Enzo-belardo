@@ -1,7 +1,6 @@
 ## <div align="center">Hey 👋, I'm Vincenzo Belardo, a full-stack web developer. 👨‍💻</div>  
   
-
-
+<img src="<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />" alt=linkedin style="whidth: 400px;" />
 
 ### Connect whit me:  
 <a href="https://www.linkedin.com/in/vincenzo-belardo-b46296171/" target="_blank">
